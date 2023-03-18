@@ -2,6 +2,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA014E&height=120&section=header"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA014E&size=35&center=true&vCenter=true&width=1000&lines=Oi+meu+nome+é+Adoniz!;tenho+17+anos;e+seja+bem+vindo+ao+meu+GitHub)](https://git.io/typing-svg)
+
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=adoniz&color=FA014E" alt="Profile Views" /> </p>
   
 - Estudando **HTML CSS JS**
 - **front-end!**
@@ -13,12 +15,13 @@
 </div>
 
 #
+
 <div> 
   <a href="https://instagram.com/adonizrv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:adonizrv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adoniz-rv-82450a26a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-#
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA014E&height=120&section=footer"/>
 
