@@ -1,7 +1,7 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa7500&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA014E&height=120&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fa7500&size=35&center=true&vCenter=true&width=1000&lines=Oi+meu+nome+é+Adoniz!;tenho+17+anos;e+seja+bem+vindo+ao+meu+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA014E&size=35&center=true&vCenter=true&width=1000&lines=Oi+meu+nome+é+Adoniz!;tenho+17+anos;e+seja+bem+vindo+ao+meu+GitHub)](https://git.io/typing-svg)
   
 - Estudando **HTML CSS JS**
 - **front-end!**
@@ -20,5 +20,5 @@
 </div>
 
 #
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa7500&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA014E&height=120&section=footer"/>
 
