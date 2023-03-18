@@ -3,6 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA014E&size=35&center=true&vCenter=true&width=1000&lines=Oi+meu+nome+é+Adoniz!;tenho+17+anos;e+seja+bem+vindo+ao+meu+GitHub)](https://git.io/typing-svg)
 
+[![Adoniz GitHub stats](https://github-readme-stats.vercel.app/api?username=adonizrv&show_icons=true&theme=radical)
+<a href="https://github.com/adonizrv/github-readme-stats"><img color="FA014E" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonizrv&layout=compact&theme=codeSTACKr&hide_border=true" /></a>
+
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=adoniz&color=FA014E" alt="Profile Views" /> </p>
   
 - Estudando **HTML CSS JS**
